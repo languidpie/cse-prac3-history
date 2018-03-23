@@ -1,0 +1,10 @@
+How many commits are there in total? When was the last commit made? 
+There are 11 commits. Last commit was made on the 20th of March, 2:34 PM. 
+
+
+Who is the author of those commits? 
+Stepan Bolotnikov
+
+
+What changes were made in the commit with the SHA-1 hash cebfb97?
+"Added local configuration data"
